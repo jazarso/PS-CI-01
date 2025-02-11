@@ -7,4 +7,4 @@ jobs:
       - uses: actions/checkout@v3
       - name: Escribir texto
         run: |
-          echo Este texto se escribe al ejecutar el workflow
+          echo Este texto se escribe al ejecutar el workflow 
