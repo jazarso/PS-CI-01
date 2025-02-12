@@ -1,6 +1,6 @@
 const app = require("./app")
 const server = require("./server")
-const supertest = require("supertest")P3
+const supertest = require("supertest")
 const mysql = require('mysql')
 
 const request = supertest(app)
