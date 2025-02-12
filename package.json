@@ -1,7 +1,7 @@
 {
   "name": "ps-ci-02",
   "version": "1.0.0",
-  "description": "PROYS, P2, Ejemplo Node.",
+  "description": "PROYS, P3, Ejemplo Node.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
